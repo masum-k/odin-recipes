@@ -1,1 +1,1 @@
-Hi! this project is about building a simple recipe web page with basic HTML elements. HTML elements used in this project are <a>, <p>, <img>, <ol>, <ul>, <li>, <h1>, <h2>
+Hi! this project is about building a simple recipe web page with basic HTML elements. HTML elements used in this project are: `<a>`, `<p>`, `<img>`, `<ol>`, `<ul>`, `<li>`, `<h1>`, `<h2>`.
